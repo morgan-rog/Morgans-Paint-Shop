@@ -25,7 +25,7 @@ int main() {
 	int priceofCans;
 	int totalPrice;
 
-	cout << "Welcome to Morgan's paint shop" << endl;
+	cout << "Welcome to Morgan's Paint Shop" << endl;
 	cout << "We have a couple options that you can choose from:" << endl;
 	
 	cout << "1- Paint the interior of a house" << endl;
