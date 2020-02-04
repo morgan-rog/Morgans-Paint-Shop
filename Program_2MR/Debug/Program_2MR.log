@@ -1,0 +1,4 @@
+﻿  Program2_source.cpp
+D:\CS 201R\Program_2MR\Program2_source.cpp(25,6): warning C4101: 'priceofCans': unreferenced local variable
+D:\CS 201R\Program_2MR\Program2_source.cpp(135,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Program_2MR.vcxproj -> D:\CS 201R\Program_2MR\Debug\Program_2MR.exe
